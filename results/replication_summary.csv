@@ -1,0 +1,4 @@
+run,months,start,end,eof1_pct,eof2_pct,eof1_err,eof2_err,corr_pc1_cpc_ao
+paper period (A),159.0,1948-01,2000-12,21.622,13.246,2.425,1.486,-0.984
+project window (B),90.0,1996-12,2026-02,24.11,13.657,3.594,2.036,-0.964
+paper (Hannachi 2004),,1948,2000,21.0,13.0,,,

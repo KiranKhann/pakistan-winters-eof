@@ -1,0 +1,9 @@
+detrended,target,units,r_monthly,p_monthly,n_monthly,slope_per_sd,r_winter_mean,p_winter_mean,n_winters,r_lead_1month,p_lead_1month,n_lead
+False,Pakistan T,°C,-0.0915,0.4106,90,-0.1385,-0.2075,0.2713,30,-0.0912,0.4962,60
+False,Pakistan P,mm/day,-0.0184,0.8636,90,-0.01,0.1269,0.5117,30,0.1909,0.144,60
+False,N. Pakistan T,°C,-0.0801,0.4868,90,-0.1186,-0.212,0.2608,30,-0.1186,0.3789,60
+False,N. Pakistan P,mm/day,-0.0247,0.8176,90,-0.0207,0.1101,0.5723,30,0.1771,0.1758,60
+True,Pakistan T,°C,-0.0868,0.4294,90,-0.1284,-0.2052,0.28,30,-0.0874,0.512,60
+True,Pakistan P,mm/day,-0.0205,0.8477,90,-0.0112,0.123,0.5254,30,0.1901,0.1456,60
+True,N. Pakistan T,°C,-0.075,0.5104,90,-0.108,-0.2096,0.2663,30,-0.1162,0.3863,60
+True,N. Pakistan P,mm/day,-0.0263,0.8055,90,-0.0221,0.1068,0.5845,30,0.1763,0.1778,60

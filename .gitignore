@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Full NOAA downloads (about 600 MB, two files over GitHub's 100 MB limit).
+# Small regional copies are committed in data/compact/ instead; get the full
+# files with:  python scripts/download_data.py
+data/*.nc
+data/*.part
+data/*.ascii
+
+# Local tool and editor settings
+.claude/
+.vscode/
+.idea/
+
+# The course paper is the author's copyright: cite it, do not redistribute it
+A_primer_for_EOF_analysis_of_climate_data.pdf
+
+# Streamlit secrets, if any are ever added
+.streamlit/secrets.toml

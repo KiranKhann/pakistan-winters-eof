@@ -1,0 +1,3 @@
+# NetCDF data and images are binary: never convert line endings
+*.nc binary
+*.png binary

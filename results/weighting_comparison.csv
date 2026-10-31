@@ -1,0 +1,5 @@
+weighting,description,paper_period_eof1,paper_period_eof2,project_window_eof1,project_window_eof2
+cos,"data x cos(lat), eq. (5) as printed",18.8,14.87,20.39,16.07
+sqrtcos,"data x sqrt(cos(lat)), covariance area-weighted",21.62,13.25,24.11,13.66
+none,no weighting,35.91,10.06,36.94,11.57
+paper,values quoted in Hannachi (2004),21.0,13.0,,
