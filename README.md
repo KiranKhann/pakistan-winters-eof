@@ -212,3 +212,18 @@ figures/  results/   generated outputs
 - p-values use the Bretherton et al. (1999) effective sample size. The local-mode table runs 20 tests, so about one "significant" result is expected by chance.
 - Reanalysis sea level pressure over the Tibetan Plateau is extrapolated below high ground, so read local patterns there with care.
 - GPCP starts in 1979, so the application tabs cannot use the paper's 1948-2000 period.
+
+
+
+
+research paper
+introduction
+literature rebview - alot of deatils 
+
+data methodology - source, PCA,SVD DETAILS
+
+result - 
+each graph explicitly expplain by using subheadings
+main heading and then add sub heading
+
+conclusion part
